@@ -8,6 +8,10 @@ Program No: CLB733
 
 DC Volts: 12V
 
+Picture of the device:
+
+![image](photo/image.png)
+
 # Description
 
 This board contains 3 output relays to control:
