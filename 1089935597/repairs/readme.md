@@ -7,8 +7,9 @@ I repaired 2 of these controllers now.
 There was a broken trace between pion 13 of the CPU and RN3-2.
 This crack was not visible because it was underneath the white silkscreen.
 
-See the read cicle here:
-![pcb crack](broken-trace1.png){width=337 height=688}
+See the read circle here:
+
+![pcb crack](broken-trace1.png)
 
 ## Sympthom: SW2 not working / pre-heat led always off.
 
