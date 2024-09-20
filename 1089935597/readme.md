@@ -29,6 +29,10 @@ This board contains 8 status leds at the front:
 
 When an error is detected, the corresponding led lights up and you must switch of the unit to reset it (after fixing the cause of it).
 
+# Repair hints
+
+[Found issues in the past](repairs/readme.md)
+
 # Utilities used to create the drawings
 
 The schematic diagram is made with KiCad 6.0.11
